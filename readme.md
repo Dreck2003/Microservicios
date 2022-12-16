@@ -14,6 +14,7 @@ Bienvenido a todos, aquí aprenderás a programar una API REST desde cero enfoca
 ## Características Principales
 
 - Microservicios con Rust.
+- Seleccionando frameworks.
 - Creando un Microservicio.
 - Registro y Configuración de un Microservicio.
 - Comunicación con un Microservicio.
